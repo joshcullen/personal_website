@@ -40,6 +40,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc in [Denis Valle's lab] (http://denisvalle.weebly.com) developing new Bayesian methods to identify underlying behavioral states from animal movement studies. In general, my research takes an integrative approach to understand how animals interact with their environment.
+I am a postdoc in [Denis Valle's lab] (http://denisvalle.weebly.com) developing new Bayesian methods to identify underlying behavioral states from animal movement. In general, my research takes an integrative approach to understand how animals interact with their environment.
 
-This includes using different types of data (morphological, performance, diet, movement) to model resource use within a single species, how this may change as it gets older/larger, and how this compares against potential competitors. I am interested in using climate change projections to evaluate the ecological niche of species and how this may impact food web dynamics.
+This includes using different types of data (morphological, performance, diet, toxicology, movement) to model resource use within a single species, how this may change as it gets older/larger, and how this compares against potential competitors. I am interested in using climate change projections to evaluate the ecological niche of species and how this may impact food web dynamics.
