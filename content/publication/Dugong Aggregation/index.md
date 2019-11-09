@@ -29,7 +29,7 @@ tags:
 title: Large dugong (Dugong dugon) aggregations persist in coastal Qatar
 url_code: ""
 url_dataset: ""
-url_pdf: {{% staticref "files/mms.12497.pdf" "newtab" %}}Large dugong (Dugong dugon) aggregations persist in coastal Qatar{{% /staticref %}}
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

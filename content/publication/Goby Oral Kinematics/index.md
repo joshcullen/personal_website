@@ -27,7 +27,7 @@ tags:
 title: Evolutionary Novelty versus Exaptation; Oral Kinematics in Feeding versus Climbing in the Waterfall-Climbing Hawaiian Goby Sicyopterus stimpsoni
 url_code: ""
 url_dataset: ""
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0053274&type=printable
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

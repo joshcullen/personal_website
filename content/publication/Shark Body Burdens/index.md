@@ -25,7 +25,7 @@ tags:
 title: Integration of multi-tissue PAH and PCB burdens with biomarker activity in three coastal shark species from the northwestern Gulf of Mexico
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0048969718335708
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

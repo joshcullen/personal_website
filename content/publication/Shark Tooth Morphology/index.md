@@ -24,7 +24,7 @@ tags:
 title: Do sharks exhibit heterodonty by tooth position and over ontogeny? A comparison using elliptic Fourier analysis
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmor.20975
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
