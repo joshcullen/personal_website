@@ -10,7 +10,7 @@ education:
   - course: B.S. Biological Sciences
     institution: Clemson University
     year: 2013
-email: ""
+email: "joshcullen10@gmail.com"
 interests:
 - Movement Ecology
 - Trophic Ecology
