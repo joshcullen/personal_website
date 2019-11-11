@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Movement Ecology"
     tag = "Movement Ecology"
+    
+  [[content.filter_button]]
+    name = "Feeding"
+    tag = "Feeding"
   
   [[content.filter_button]]
     name = "Other"
