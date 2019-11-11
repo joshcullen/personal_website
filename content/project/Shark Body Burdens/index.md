@@ -17,7 +17,7 @@ tags:
 - Biomarkers
 - Bioaccumulation
 - Sharks
-title: Integration of Enzymatic Biomarkers and Concentrations of Organic Pollutants 
+title: Integration of Enzymatic Biomarkers and Pollutant Concentrations 
 url_code: ""
 url_pdf: ""
 url_slides: ""
