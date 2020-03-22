@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Research"
-  url = "#research"
+  url = "#projects"
   weight = 20
 
 [[main]]
@@ -26,7 +26,3 @@
     #url = "files/cv.pdf"
     weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
