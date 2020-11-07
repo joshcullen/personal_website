@@ -34,6 +34,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/joshcullen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/josh_a_cullen
 superuser: true
 user_groups:
 - Researchers
