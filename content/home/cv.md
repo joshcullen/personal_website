@@ -13,6 +13,6 @@ subtitle = ""
   page_type = "cv"
 
 +++
-Last updated Sept. 2019
+Last updated November 2020
 
 <iframe src="files/cv.pdf" width="100%" height="600px"></iframe>

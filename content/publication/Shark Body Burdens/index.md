@@ -7,7 +7,7 @@ authors:
 - David Hala
 date: "February 2019"
 doi: "https://doi.org/10.1016/j.scitotenv.2018.09.128"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""

@@ -1,5 +1,5 @@
 ---
-date: "2020-03-08T00:00:00Z"
+date: "2020-11-15T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by Russ on Wikimedia Commons
@@ -15,13 +15,13 @@ tags:
 - Movement Ecology
 - Quantitative Ecology
 - Bayesian Statistics
-title: New Bayesian Methods to Estimate Animal Behavior and Space-Use
+title: Identifying Latent Behavioral States From Animal Biotelemetry Data Using Non-parametric Bayesian Methods
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Movement decisions of an organism can impact habitat use, foraging strategies, reproductive success, and survival, which ultimately affects population dynamics of a species. The study of animal movement has increased in the past few decades, along with the increased capacity of telemetry devices to record locations with greater accuracy and longer durations. There are a wide variety of methods that exist to evaluate where the animal is going and what they are doing, but many of these methods have limitations for their use and inference. Many methods used to analyze space-use do not provide a way to evaluate temporal patterns, while others may be biased to locations of initial tagging or do not sufficiently capture the areas most used by a set of conspecifics. Additionally, many recent studies that estimate behavioral changes along an animal's trajectory often use a form of segmentation model or a mechanistic movement model, which either are limited in the scope of their capacity or rely on many underlying assumptions, respectively.
+Movement decisions of an organism can impact habitat use, foraging strategies, reproductive success, and survival, which ultimately affects population dynamics of a species. The study of animal movement has increased in the past few decades, along with the increased capacity of telemetry devices to record locations with greater accuracy and over longer durations. Although there are a wide variety of existing methods that estimate latent behavioral states, many of these methods have limitations for their use and inference (e.g., only analyze one data stream, require parametric distributions).
 
-We have developed new methods within a Bayesian framework that seek to address many of the limitations of these existing methods for the analysis of animal space-use and behavior estimation. These methods could be classified as a segmentation model that provides either a mixture or mixed-membership model to cluster the time segments from each of the individuals that were tagged. This results in population-level estimates of behavior and space-use, which is derived in a way that relies on fewer assumptions, is flexible, and generalizable.
+We have developed a non-parametric Bayesian framework that addresses some of the limitations of these existing methods for the estimation of animal behavioral states. This framework uses a two-stage approach: 1) Multiple data streams (e.g., step length, turning angle, temperature, depth) are partitioned into track segments for each ID; 2) Track segments are pooled across IDs and clustered to determine the optimal number of states and their distributions per data stream. This proposed framework provides a fast and flexible method to characterize latent states at the level of track segments, which may be particularly useful when time steps are short (and therefore behavior is highly autocorrelated) and when distributions of data streams are not well fit by parametric distributions.
